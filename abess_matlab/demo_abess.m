@@ -1,5 +1,6 @@
 function demo_abess()
-    rng(1);
+
+   rng(1);
     n = 200; p = 500; s_true = 10;
 
     % synthetic correlated design
